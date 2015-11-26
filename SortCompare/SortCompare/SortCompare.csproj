@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\BubbleSort.cs" />
+    <Compile Include="Algorithms\InsertionSort.cs" />
+    <Compile Include="Algorithms\SelectionSort.cs" />
+    <Compile Include="ISortCompare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
